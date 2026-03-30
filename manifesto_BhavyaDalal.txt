@@ -1,0 +1,11 @@
+----------------------------------------------------------
+             OPEN SOURCE MANIFESTO (30 March 2026)                
+----------------------------------------------------------
+My name is Bhavya Dalal, and I believe in the power of FOSS.
+Every day, I rely on GitHub to empower my digital life.
+To me, the essence of open source is 'Choice'.
+
+In the spirit of global collaboration, I pledge that
+one day I will build and share a Resume with the world,
+just as others shared their hard work with me.
+----------------------------------------------------------
